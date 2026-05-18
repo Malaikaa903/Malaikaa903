@@ -68,35 +68,6 @@ const malaika = {
 
 ---
 
-## 📂 Featured Projects
-
-### 🗂️ Task Manager App
-> Full-stack productivity app with user authentication, task CRUD operations, and status tracking (To Do / In Progress / Done)
-
-**Tech:** React.js · Node.js · Express.js · MongoDB · JWT Auth · Tailwind CSS
-
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Malaikaa903/task-manager-mern)
-
----
-
-### 📝 Blog App
-> Multi-user blogging platform with secure authentication, image upload, rich text posts, and pagination
-
-**Tech:** React.js · Node.js · Express.js · MongoDB · Cloudinary · Multer
-
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Malaikaa903/blog-app-mern)
-
----
-
-### ⚙️ Backend Practice Projects
-> Collection of REST APIs practising CRUD operations, middleware, JWT authentication, and MongoDB design
-
-**Tech:** Node.js · Express.js · MongoDB · REST APIs · Mongoose
-
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Malaikaa903/backend-practice-projects)
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -125,6 +96,5 @@ const malaika = {
 
 ### 💡 "Code is like humor. When you have to explain it, it's bad." — Cory House
 
-⭐ **If you find my projects helpful, consider giving them a star!**
 
 </div>
