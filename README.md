@@ -22,13 +22,12 @@
 
 ---
 
-## 🚀 Engineering Horizon
+## 📦 Projects Portfolio
 
-* 🔭 **Currently building & deploying** — Advanced features for **InterviewAce** & scaled web tools.
-* 📦 **Recent Deployments** — Successfully shipped **Task Manager**, **Blog App**, and **InterviewAce**.
-* 🌱 **Deepening Knowledge** — Advanced React state management, Redux architecture, and System Design patterns.
+* 🚀 **Recent Deployments** — Successfully shipped **Task Manager**, **Blog App**, and **InterviewAce** using MERN architecture.
 * 👯 **Collaboration Interests** — Open-source MERN architectures & production-grade engineering setups.
 * 💬 **Technical Talk** — Ask me about RESTful APIs, JWT Authentication mechanisms, and complex MongoDB schemas.
+* 📫 **Reach me at** — malaikatabassum83@gmail.com
 
 ---
 
